@@ -24,6 +24,9 @@ Future<String> signInWithGoogle() async {
   final FirebaseUser currentUser = await _auth.currentUser();
   assert(user.uid == currentUser.uid);
 
+  // try to save user id
+
+
   return 'signInWithGoogle succeeded: $user';
 }
 
