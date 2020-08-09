@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286218143019",
+    "firebase_url": "https://hapue-32e6a.firebaseio.com",
+    "project_id": "hapue-32e6a",
+    "storage_bucket": "hapue-32e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286218143019:android:859ea69fffa10e47d7b16e",
+        "android_client_info": {
+          "package_name": "com.example.Mobile_front_end"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286218143019-i44holvgud54940b1899cfolbdst75f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Mobile_front_end",
+            "certificate_hash": "6f986b69f446f9b31e130b8d2ae2fd415d4050c3"
+          }
+        },
+        {
+          "client_id": "286218143019-7p2tqc0ktlhmgcitug7tuoh84ffdis7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_r1LMxIzrq-Yw7T81TQaXdD4V8zUXswc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286218143019-7p2tqc0ktlhmgcitug7tuoh84ffdis7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
